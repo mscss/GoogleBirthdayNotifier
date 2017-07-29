@@ -204,7 +204,8 @@ file].
   - [lboullo0 (Lucas)][Github lboullo0] - Spanish;
   - [muzavan (Muhammad Reza Irvanda)][Github muzavan] - Indonesian;
   - [DrKrakower][Github DrKrakower] - German;
-  - [cezarylaksa][Github cezarylaksa] - Polish;
+  - [cezarylaksa][Github cezarylaksa] and [baatochan (Bartosz
+    Rodziewicz)][Github baatochan] - Polish;
 - all of the contributors that you can find [here][Project contributors page];
 
 [Project main page]: https://github.com/GioBonvi/GoogleBirthdayNotifier
@@ -224,3 +225,4 @@ file].
 [Github muzavan]: https://github.com/muzavan
 [Github DrKrakower]: https://github.com/DrKrakower
 [Github cezarylaksa]: https://github.com/cezarylaksa
+[Github baatochan]: https://github.com/baatochan
